@@ -11,12 +11,10 @@ I am Kirill, a passionate software engineer with a strong interest in Java, DevO
     <img width="15%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-
     <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" />
-
     <img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/helm_sh/helm_sh-ar21.svg" />
