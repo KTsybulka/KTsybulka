@@ -1,6 +1,6 @@
 ## Hi there 👋 [![HitCount](https://hits.dwyl.com/KTsybulka/KTsybulka.svg?style=flat-square)](http://hits.dwyl.com/KTsybulka/KTsybulka)
 
-I am Kirill, a passionate software developer with a strong interest in Java, DevOps, Linux, Microservices, and Cloud Architectures.
+I am Kirill, a passionate software developer with a strong interest in Java, JavaScript, and Oracle.
 
 ## 🧰 Languages and Tools
 
