@@ -20,7 +20,7 @@ I am Kirill, a passionate software engineer with a strong interest in Java, DevO
     <img width="15%" src="https://www.vectorlogo.zone/logos/helm_sh/helm_sh-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/html-5/html-5-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
 </p>
 
 ## 📫 How to reach me
