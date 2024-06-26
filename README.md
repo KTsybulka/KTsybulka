@@ -7,12 +7,14 @@ I am Kirill, a passionate software engineer with a strong interest in Java, DevO
 <p>
     <img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" />
+<!--     <img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" /> -->
 <!--     <img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" /> -->
 <!--     <img width="15%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" /> -->
     <img width="15%" src="https://www.vectorlogo.zone/logos/hibernat/e/hibernate-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+    
 <!--     <img width="15%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" /> -->
 <!--     <img width="15%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" /> -->
     <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
