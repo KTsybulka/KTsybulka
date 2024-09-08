@@ -1,5 +1,5 @@
 ## Hi there 👋 [![HitCount](https://hits.dwyl.com/KTsybulka/KTsybulka.svg?style=flat-square)](http://hits.dwyl.com/KTsybulka/KTsybulka)
-
+![HitCount](https://via.placeholder.com/150?text=HitCount)
 I am Kirill, a passionate software developer with a strong interest in Java, JavaScript, and Oracle.
 
 ## 🧰 Languages and Tools
