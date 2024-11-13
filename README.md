@@ -27,6 +27,7 @@ I am Kirill, a passionate software developer with a strong interest in Java, Jav
     <img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />     
     <img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/neo4j/neo4j-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />
     
 </p>
 
